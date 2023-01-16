@@ -1,5 +1,4 @@
 ### Hi there 👋
 
 ### My Github Stats
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&username=jackythesmurf" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&username=jackythesmurf" height="150" alt="languages graph"  />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=jackythesmurf&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
