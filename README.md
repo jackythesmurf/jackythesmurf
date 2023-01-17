@@ -3,7 +3,7 @@
 
 
 <p style="text-aling:center">
-I am a Full-Stack Software Developer, based in Sydney.
+I am a Full-Stack Software Developer, and a Comp Sci student
 <br>
 I enjoying learning new technologies, which brings much
 excitement to my life and I wish to share that same passion with everybody !
