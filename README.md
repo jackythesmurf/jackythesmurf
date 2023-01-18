@@ -38,6 +38,6 @@ And I wish to share that same passion with everybody !
 </p>
 
 <h3 style="text-align: center;" class="title5">Contacts</h3>
-<p align="center">
-<a href="https://linkedin.com/in/jacky-li-2277a8259" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/linkedin.png" alt="jacky-li-2277a8259" height="40" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/jacky-li-2277a8259" target="blank"><img src="https://img.icons8.com/fluency/512/linkedin.png" alt="jacky-li-2277a8259" height="40" width="40" /></a>
 </p>
