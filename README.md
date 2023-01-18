@@ -38,8 +38,6 @@ And I wish to share that same passion with everybody !
 </p>
 
 <h3 style="text-align: center;" class="title5">Contacts</h3>
-<p style="margin;">
-    LinkedIn:
-    <br>
-    Email: jackythesmurf@gmail.com
+<p align="center">
+<a href="https://linkedin.com/in/jacky-li-2277a8259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacky-li-2277a8259" height="30" width="40" /></a>
 </p>
