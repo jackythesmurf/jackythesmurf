@@ -39,5 +39,5 @@ And I wish to share that same passion with everybody !
 
 <h3 style="text-align: center;" class="title5">Contacts</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jacky-li-2277a8259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacky-li-2277a8259" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jacky-li-2277a8259" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/linkedin.png" alt="jacky-li-2277a8259" height="40" width="40" /></a>
 </p>
