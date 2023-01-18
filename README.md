@@ -7,7 +7,7 @@ I am a Full-Stack Software Developer, and a Comp Sci student
 <br>
 I enjoy learning new and exciting technologies, 
 <br>
-I wish to share that same passion with everybody !
+And I wish to share that same passion with everybody !
 </p>
 
 
