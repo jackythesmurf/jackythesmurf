@@ -30,14 +30,15 @@ And I wish to share that same passion with everybody !
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</p>
+</p>kv
 
-<h3 style="text-align: center;" class="title4"> My Github Stats </h3>
-<p style="text-align: center;"> <img style="text-align: center;" width="50%"
-        src="http://github-readme-streak-stats.herokuapp.com/?user=jackythesmurf&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+<h3 style="text-align: center;" class="title4"> Hackerrank Certificates </h3>
+<p style="text-align: center;"> <img style="text-align: center;" width="80%"
+        src="java_basic.png">
 </p>
 
 <h3 style="text-align: center;" class="title5">Contacts</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jacky-li-2277a8259" target="blank"><img src="https://img.icons8.com/fluency/512/linkedin.png" alt="jacky-li-2277a8259" height="40" width="40" /></a>
 </p>
+
