@@ -33,7 +33,7 @@ And I wish to share that same passion with everybody !
 </p>
 
 <h3 style="text-align: center;" class="title4"> Hackerrank Certificates </h3>
-<p style="text-align: center;"> <img style="text-align: center;" width="60%"
+<p style="text-align: center;"> <img style="text-align: center;" width="30%"
         src="java_basic.png">
 </p>
 
