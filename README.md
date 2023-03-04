@@ -15,7 +15,7 @@ And I wish to share that same passion with everybody !
 <img width="40" src="typescript.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" />
-<img src="https://raw.gitkvhubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
         width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="40" height="40" />
@@ -32,7 +32,7 @@ And I wish to share that same passion with everybody !
 <h3>Frontend Development</h3>
 <p>
 
-<img src="nextjs.svg" width="40">
+<img src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630" height="40" width="80">
 <img width="40" src="tailwind.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" />
