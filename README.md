@@ -65,7 +65,7 @@ width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/git-scm/git
 </p>
 
 <h3 style="text-align: center;" class="title4"> Hackerrank Certificates </h3>
-<p style="text-align: center;"> <img style="text-align: center;" width="60%"
+<p style="text-align: center;"> <img style="text-align: center;" width="30%"
         src="java_basic.png">
 </p>
 
