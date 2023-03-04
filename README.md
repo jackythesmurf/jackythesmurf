@@ -47,7 +47,7 @@ And I wish to share that same passion with everybody !
 <h3>Data Analysis</h3>
 <p>
 
-<img alt="pandas" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100"/>
+<img alt="pandas" height="40" src="" width="100"/>
 <img alt="matlab" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="40"/>
 <p>
 <h3>Other</h3>
