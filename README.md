@@ -15,7 +15,7 @@ And I wish to share that same passion with everybody !
 <img width="40" src="typescript.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+<img src="https://raw.gitkvhubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
         width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="40" height="40" />
@@ -47,7 +47,7 @@ And I wish to share that same passion with everybody !
 <h3>Data Analysis</h3>
 <p>
 
-<img alt="pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
+<img alt="pandas" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100"/>
 <img alt="matlab" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="40"/>
 <p>
 <h3>Other</h3>
