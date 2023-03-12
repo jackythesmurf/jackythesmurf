@@ -23,7 +23,7 @@ And I wish to share that same passion with everybody !
 <h3>Backend Development</h3>
 <p>
 <img width="40" src="spring.svg">
-<img alt="django" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<!-- <img alt="django" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/> -->
 
 <img alt="nestjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
 <img alt="postgresql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -33,7 +33,7 @@ And I wish to share that same passion with everybody !
 <p>
 
 <img src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630" height="40" width="80">
-<img width="40" src="tailwind.svg">
+<!-- <img width="40" src="tailwind.svg"> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -42,7 +42,7 @@ And I wish to share that same passion with everybody !
         alt="css3" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         width="40" height="40" />
-<imgsrc="./nextjs.svg" width="50" height="50">
+<!-- <imgsrc="./nextjs.svg" width="50" height="50"> -->
 <p>
 <h3>Data Analysis</h3>
 <p>
